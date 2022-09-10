@@ -20,3 +20,4 @@ Olá, eu sou o Gustavo Souza
 - Instagram @yang_ghust
 - GitHub @Gustavo-ASouza
 - Email gustavomg21@gmail.com
+- Linkedin https://www.linkedin.com/in/gustavo-almeida-b46ba3227/
