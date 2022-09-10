@@ -2,7 +2,7 @@
 
 Olá, eu sou o Gustavo Souza
 
-## Mus hobbies
+## Meus hobbies
 
 - ler
 - jogar videogeme
